@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Plone\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-15T08:53:14.294Z\n"
-"PO-Revision-Date: 2025-05-28 08:53+0000\n"
+"PO-Revision-Date: 2025-05-28 13:38+0000\n"
 "Last-Translator: Mikel Larreategi <mlarreategi@codesyntax.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/plone/"
 "erral-testing/eu/>\n"
@@ -178,7 +178,7 @@ msgstr "Gehitu data"
 #. Default: "Add element to container"
 #: components/manage/Blocks/Container/SimpleContainerToolbar
 msgid "Add element to container"
-msgstr ""
+msgstr "Gehitu elementua edukiontzira"
 
 #. Default: "Add field"
 #: components/manage/Widgets/SchemaWidget
