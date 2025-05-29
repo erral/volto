@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Plone\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-15T08:53:14.294Z\n"
-"PO-Revision-Date: 2025-05-28 13:38+0000\n"
+"PO-Revision-Date: 2025-05-30 15:01+0000\n"
 "Last-Translator: Mikel Larreategi <mlarreategi@codesyntax.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/plone/"
 "erral-testing/eu/>\n"
@@ -299,6 +299,7 @@ msgstr ""
 #: components/manage/Blocks/Search/schema
 msgid "Advanced facets are initially hidden and displayed on demand"
 msgstr ""
+"Fazeta aurreratuak hasieran ezkutatuta daude eta eskatu ahala erakusten dira."
 
 #. Default: "Album view"
 #: config/Views
@@ -4723,7 +4724,7 @@ msgstr "Irudia"
 #. Default: "Please upload an image instead."
 #: components/manage/Widgets/ImageWidget
 msgid "imageUploadErrorMessage"
-msgstr ""
+msgstr "Kargatu irudi bat mesedez."
 
 #. Default: "Clear image"
 #: components/manage/Blocks/Image/ImageSidebar
